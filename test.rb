@@ -10,3 +10,4 @@ puts a.join(" ")
   a.insert(newi, ai)
   puts a.join(" ")
 end
+
